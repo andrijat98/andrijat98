@@ -21,7 +21,7 @@ I have started my coding journey by building Minecraft mods using Java. Later, I
 
 ---
 
-<p><img height="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrijat98&show_icons=true&locale=en&layout=compact" alt="andrijat98" /></p>
+<p><img height="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrijat98&show_icons=true&locale=en&layout=compact" alt="andrijat98" /></p>
 
-<p>&nbsp;<img height="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=andrijat98&show_icons=true&locale=en" alt="andrijat98" /></p>
+<p>&nbsp;<img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=andrijat98&show_icons=true&locale=en" alt="andrijat98" /></p>
 
