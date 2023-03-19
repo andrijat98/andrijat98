@@ -21,7 +21,7 @@ I have started my coding journey by building Minecraft mods using Java. Later, I
 
 ---
 
-<img height="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrijat98&show_icons=true&locale=en&layout=compact" alt="andrijat98" />
+<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrijat98&show_icons=true&locale=en&layout=compact" alt="andrijat98" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrijat98&show_icons=true&locale=en" alt="andrijat98" />
 
