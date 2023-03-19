@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrija Tomić</h1>
 <h3 align="center">A self-taught practicing developer with a strong passion for web development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrijat98" alt="andrijat98" /></a> </p>
+- 🌱 I’m currently learning: **ReactJS, SpringBoot**
 
-- 🌱 I’m currently learning **ReactJS, SpringBoot**
+- 📫 How to reach me: **andrijat98@gmail.com**
 
-- 📫 How to reach me **andrijat98@gmail.com**
-
-- ⚡ Fun fact **I have a degree in graphic design and engineering :D**
+- ⚡ Fun fact: **I have a degree in graphic design and engineering :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
